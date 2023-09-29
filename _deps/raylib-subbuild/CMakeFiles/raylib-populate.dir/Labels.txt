@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+/home/slab/projects/git_game/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+/home/slab/projects/git_game/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+/home/slab/projects/git_game/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+/home/slab/projects/git_game/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+/home/slab/projects/git_game/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+/home/slab/projects/git_game/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+/home/slab/projects/git_game/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+/home/slab/projects/git_game/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+/home/slab/projects/git_game/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+/home/slab/projects/git_game/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+/home/slab/projects/git_game/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule

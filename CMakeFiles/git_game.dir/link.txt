@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/git_game.dir/src/main.c.o -o git_game  _deps/raylib-build/raylib/libraylib.a -lm -lpthread -lOpenGL -lGLX -lGLU _deps/raylib-build/raylib/external/glfw/src/libglfw3.a -Wl,-Bstatic -lrt -Wl,-Bdynamic -lm -ldl 
